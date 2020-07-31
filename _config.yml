@@ -17,9 +17,9 @@ lang: en-US
 title: "Keith and Leigh in Mexico"
 email: keithehenry@gmail.com
 description: "Blog"
-url: http://www.keithehenry.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl: # the optional subpath of your site, e.g. "/blog"
-baseurl: "/MexicoBlog"
+#url: http://www.keithehenry.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl: "/MexicoBlog" # the optional subpath of your site, e.g. "/blog"
+url: https://blog.keithandleigh.com
 author:
   name: Keith E Henry
   twitter:

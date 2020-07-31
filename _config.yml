@@ -19,7 +19,7 @@ email: keithehenry@gmail.com
 description: "Blog"
 #url: http://www.keithehenry.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl: "/MexicoBlog" # the optional subpath of your site, e.g. "/blog"
-url: https://blog.keithandleigh.com
+url: http://blog.keithandleigh.com
 author:
   name: Keith E Henry
   twitter:

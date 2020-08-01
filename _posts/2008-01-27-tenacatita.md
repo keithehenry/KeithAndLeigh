@@ -41,8 +41,8 @@ if you have a surf-board!
 
 [![]({{site.baseurl}}/assets/images/IMG_5189.JPG)]({{site.baseurl}}/assets/images/IMG_5189.JPG)
 
-We liked Tenacatita. It's just a little busier than [San Juan de
-Alima](http://blog.keithandleigh.com/2007/12/one-hundred-percent-beach.html)
+We liked Tenacatita. It's just a little busier than
+[San Juan de Alima]({{site.baseurl}}{% post_url 2007-12-04-one-hundred-percent-beach %})
 but still very quiet. There are only two working hotels, both in the
 $250 peso range (approx. $25.00 US). The one we stayed in even had hot
 water! We counted about twenty restaurants. People "camp out" there

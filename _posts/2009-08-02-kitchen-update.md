@@ -8,27 +8,30 @@ modified_time: '2020-07-24T10:35:13.672-07:00'
 ---
 Now's a good time for a comprehensive update on our kitchen rework.
 
-
-
 \[This may indeed be *too too* comprehensive for many. I'm marking an
 accomplishment, moving on to the next phase, and trying to get the blog
 up to date all in one. Scroll down, check out the photos, and save the
 text for a *very* rainy day :) .\]
 
-
-
-Our last major entry on home improvement was [The go-to
-guy](http://blog.keithandleigh.com/2007/12/go-to-guy.html), way back in
-Dec 2007, featuring photos of Chuy and our new exterior "brick" color
-scheme. \[For more history, you could also read [Enough for
-now](http://blog.keithandleigh.com/2007/05/enough-for-now.html), [Chuy
-is back!](http://blog.keithandleigh.com/2007/02/chuy-is-back.html), [La
-Casa de Don
-Manuel](http://blog.keithandleigh.com/2005/12/la-casa-de-don-manuel.html),
-and for scrapbook photos, visit [Casa de Keith y
-Leigh](http://casadekeithyleigh.blogspot.com/).\]
-
-
+Our last major entry on home improvement was
+[The go-to guy]({{site.baseurl}}{% post_url
+2007-12-05-the-go-to-guy
+%}),
+way back in Dec 2007, featuring photos of Chuy and our new exterior "brick" color
+scheme.
+\[For more history, you could also read
+[Enough for now]({{site.baseurl}}{% post_url
+2007-05-08-enough-for-now
+%}),
+[Chuy is back!]({{site.baseurl}}{% post_url
+2007-02-16-chuy-is-back
+%}),
+[La Casa de Don Manuel]({{site.baseurl}}{% post_url
+2005-12-04-la-casa-de-don-manuel
+%}), 
+and for scrapbook photos, visit
+[Casa de Keith y Leigh](http://casa.keithandleigh.com).
+\]
 
 The rework of the laundry room and kitchen occupied a great deal of our
 attention in 2008. In the earlier part of the year we did lots of

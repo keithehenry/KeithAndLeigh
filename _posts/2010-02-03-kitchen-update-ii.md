@@ -64,10 +64,12 @@ collaborative workspace with Google Sites, a bilingual design document
 with Google Docs, and host it all with Google Apps for Your Domain? (And
 of course blog about it later with \[Google\] Blogger.) Really!
 
-Check out:
-[http://cocina.keithandleigh.com](http://cocina.keithandleigh.com/).
+Check out: http://cocina.keithandleigh.com.
 From there you can download our SketchUp model, our PDF design document,
 and view photos of the kitchen and laundry room pre-cabinets.
+*\[KEH 2020-08-01: The Google Site no longer exists, but that
+[design document](https://drive.google.com/file/d/1tPKpxbT-5DOYRYc5IASsRd77Ik3R_3Nb/view?usp=sharing)
+was really incredible. :) \]*
 
 In the end we settled on another carpenter. We saw his work at a house
 in the neighborhood - it was excellent. The homeowners gave him their

@@ -7,7 +7,10 @@ tags:
 modified_time: '2020-07-24T10:35:12.502-07:00'
 ---
 Well, we rather outdid ourselves with
-[Butterfly Birthday](http://blog.keithandleigh.com/2008/04/butterfly-birthday.html) - with narration, photos, slide show, video, and even links to more information. Wow!
+[Butterfly Birthday]({{site.baseurl}}{% post_url
+2008-04-20-butterfly-birthday
+%}) - with
+narration, photos, slide show, video, and even links to more information. Wow!
 
 I wanted that posting to stay as the main, front page
 for a while so all two or three of our occasional readers might see it.

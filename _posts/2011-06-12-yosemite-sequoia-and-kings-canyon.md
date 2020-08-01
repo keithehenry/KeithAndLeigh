@@ -10,10 +10,10 @@ In late May and early June we enjoyed ten days exploring the Yosemite,
 Sequoia, and Kings Canyon national parks. We had great weather and a
 terrific time!
 
-I've put together about one hundred of our best photos with captions into a Google Photos album. Enjoy!
-(Use your keyboard left and right arrow keys to view the slideshow at your own pace.)
+I've put together about one hundred of our best photos with captions
+(but that don't really work anymore) into a Google Photos album. Enjoy!
 
-[**Best of Yosemite, Sequoia, and Kings Canyon**](https://photos.app.goo.gl/RehG2M9zsrg4USFX6)
+[Best of Yosemite, Sequoia, and Kings Canyon](https://photos.app.goo.gl/RehG2M9zsrg4USFX6)
 
 [![]({{site.baseurl}}/assets/images/IMG_0060.JPG)](https://photos.app.goo.gl/RehG2M9zsrg4USFX6)
 

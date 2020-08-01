@@ -50,7 +50,7 @@ productive.
 
 Home improvements continue to occupy most of our time. Progress is slow
 though. I finally bought an instant-on hot [water
-heater](http://casadekeithyleigh.blogspot.com/2006/11/on-demand-water-heater.html)
+heater](http://casa.keithandleigh.com/2006/11/11/on-demand-water-heater.html)
 and installed it myself about two weeks ago. After some initial
 disappointment as to how hot the water was, it now seems fine. The old
 tank-type had multiple problems and was about to rust out entirely at
@@ -64,6 +64,6 @@ in Chapala. I ordered them today. I hope they look good once
 installed.
 
 For photos of our current work in progress, see our companion website
-[Casa de Keith y Leigh](http://casadekeithyleigh.blogspot.com).)
+[Casa de Keith y Leigh](http://casa.keithandleigh.com).)
 
 That's it for now...

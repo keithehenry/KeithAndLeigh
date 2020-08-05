@@ -4,6 +4,7 @@ title: Kathy and Peanuts visit Mexico!
 date: '2006-03-12T17:14:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.719-07:00'
 ---
 We had a great visit with my sister Kathy and step-mother Florence

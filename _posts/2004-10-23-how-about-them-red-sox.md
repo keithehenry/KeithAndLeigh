@@ -4,6 +4,7 @@ title: How about them Red Sox?
 date: '2004-10-23T08:03:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.122-07:00'
 ---
 We watched the first couple SOX games (Leigh is the sport fan these

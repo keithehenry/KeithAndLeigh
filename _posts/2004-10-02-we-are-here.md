@@ -4,6 +4,7 @@ title: We are here!!
 date: '2004-10-02T19:28:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.022-07:00'
 ---
 Just a quick note to let you know we arrived safely and are settling in

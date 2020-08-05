@@ -4,6 +4,7 @@ title: Hola de Mexico
 date: '2004-10-22T15:52:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.818-07:00'
 ---
 I feel badly that I haven't called yet after saying I would. Things were

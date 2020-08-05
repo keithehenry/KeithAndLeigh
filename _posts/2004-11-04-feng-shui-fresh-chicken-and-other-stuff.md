@@ -4,6 +4,7 @@ title: Feng Shui, fresh chicken, and other stuff
 date: '2004-11-04T14:08:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.232-07:00'
 ---
 My mood fluctuates a bit. This is a new morning, fresh air, fresh

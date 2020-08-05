@@ -4,6 +4,7 @@ title: Cobre's Anniversary
 date: '2008-01-06T17:08:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.209-07:00'
 ---
 The best dog in the whole wide world has been sharing our home for a

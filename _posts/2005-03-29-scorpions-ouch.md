@@ -4,6 +4,7 @@ title: Scorpions - Ouch!
 date: '2005-03-29T14:19:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.206-07:00'
 ---
 Today my day didn't start off too well. I got my first scorpion sting.

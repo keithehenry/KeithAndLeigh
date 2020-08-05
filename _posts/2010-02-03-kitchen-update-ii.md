@@ -4,6 +4,7 @@ title: Kitchen update II
 date: '2010-02-03T07:36:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.960-07:00'
 ---
 Here we are... eagerly awaiting the arrival of our kitchen cabinets, and

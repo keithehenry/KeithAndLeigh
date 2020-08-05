@@ -4,6 +4,7 @@ title: Car trouble
 date: '2005-03-02T12:07:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.447-07:00'
 ---
 Our days have been spent settling in. As I'm sure you can imagine, there

@@ -4,6 +4,7 @@ title: Scorpion sting - update
 date: '2005-04-05T13:47:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.689-07:00'
 ---
 We did have one mishap last week...I was stung by a scorpion in our new

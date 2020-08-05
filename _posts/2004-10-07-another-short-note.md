@@ -4,6 +4,7 @@ title: Another short note
 date: '2004-10-07T14:36:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.635-07:00'
 ---
 Yes we are fine. We probably won't have Internet service at home for

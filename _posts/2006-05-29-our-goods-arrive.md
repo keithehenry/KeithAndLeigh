@@ -4,6 +4,7 @@ title: Our goods arrive!
 date: '2006-05-29T08:40:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.188-07:00'
 ---
 Our household goods have finally arrived. It had been just about four

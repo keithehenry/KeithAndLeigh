@@ -4,6 +4,7 @@ title: Day Trip to Tapalpa
 date: '2005-11-04T14:42:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.650-07:00'
 ---
 We finally got off the computers, out of the house, and onto the open

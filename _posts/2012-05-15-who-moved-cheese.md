@@ -4,6 +4,7 @@ title: Who moved the cheese?
 date: '2012-05-15T09:19:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.752-07:00'
 ---
 I've been reminded recently of the tiny book/pamphlet, *Who Moved My

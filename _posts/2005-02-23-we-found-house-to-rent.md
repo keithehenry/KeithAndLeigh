@@ -4,6 +4,7 @@ title: We found a house to rent!
 date: '2005-02-23T17:44:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.174-07:00'
 ---
 We found a great house to rent yesterday!!! We stumbled upon a wonderful

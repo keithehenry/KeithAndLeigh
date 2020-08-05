@@ -4,6 +4,7 @@ title: Enough for now
 date: '2007-05-08T06:22:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.106-07:00'
 ---
 Yesterday was Chuy's last day.

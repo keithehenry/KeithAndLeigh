@@ -4,6 +4,7 @@ title: Mammoth Caves National Park
 date: '2004-12-30T11:50:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.615-07:00'
 ---
 Greetings of the season! Wanted to let you know that we arrived back in

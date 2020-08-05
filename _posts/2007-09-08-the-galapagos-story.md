@@ -4,6 +4,7 @@ title: The Galapagos story
 date: '2007-09-08T04:47:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.630-07:00'
 ---
 We enjoyed our brief visit to the Galapagos Islands. We're glad we went.

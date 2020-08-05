@@ -4,6 +4,7 @@ title: February's visitors
 date: '2006-02-17T13:04:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.399-07:00'
 ---
 I'm writing this in the middle of May but want to recap February (and

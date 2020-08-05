@@ -4,6 +4,7 @@ title: Getting the basics figured out
 date: '2004-10-18T14:42:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.022-07:00'
 ---
 Two long weeks without Internet access at home has finally came to an

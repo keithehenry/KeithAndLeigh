@@ -4,6 +4,7 @@ title: The hike to the cross
 date: '2009-05-10T10:49:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.902-07:00'
 ---
 I have a new favorite hike.

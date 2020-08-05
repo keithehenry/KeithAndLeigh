@@ -4,6 +4,7 @@ title: Christmas in Mexico City
 date: '2006-12-31T08:12:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.645-07:00'
 ---
 We had a fun trip to Mexico City over Christmas this year. The city was

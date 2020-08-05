@@ -4,6 +4,7 @@ title: Three and half weeks in New Hampshire
 date: '2006-05-07T04:24:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.338-07:00'
 ---
 We've been back in Vista del Lago for a week now after a very productive

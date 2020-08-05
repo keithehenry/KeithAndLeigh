@@ -4,6 +4,7 @@ title: Why Mexico? Keith's rant...
 date: '2004-11-04T19:16:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.547-07:00'
 ---
 Thanks for your note and interest in what we are doing. We miss Eliot

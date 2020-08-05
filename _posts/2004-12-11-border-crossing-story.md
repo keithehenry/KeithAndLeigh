@@ -4,6 +4,7 @@ title: Border crossing story
 date: '2004-12-11T16:36:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.561-07:00'
 ---
 We arrived safely with no incidents. We were on the road a total of nine

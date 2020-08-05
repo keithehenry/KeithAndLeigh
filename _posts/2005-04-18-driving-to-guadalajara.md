@@ -4,6 +4,7 @@ title: Driving to Guadalajara
 date: '2005-04-18T16:50:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.288-07:00'
 ---
 We have driven to Guadalajara twice recently. The second trip was easier

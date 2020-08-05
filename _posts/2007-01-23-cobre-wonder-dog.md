@@ -4,6 +4,7 @@ title: Cobre - the wonder dog
 date: '2007-01-23T08:22:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.081-07:00'
 ---
 Cobre (Spanish for "Copper"), our new dog, has been a joy, but also a

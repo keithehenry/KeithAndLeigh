@@ -4,6 +4,7 @@ title: Home, Sweet Home
 date: '2005-08-18T10:42:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.253-07:00'
 ---
 We are settling back into a daily routine again after oh so long

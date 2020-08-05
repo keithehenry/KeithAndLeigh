@@ -4,6 +4,7 @@ title: "(Yet another) We're here !"
 date: '2004-10-14T08:48:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.856-07:00'
 ---
 Thank you for the nice greeting.

@@ -4,6 +4,7 @@ title: Day-to-day stuff
 date: '2004-10-13T12:36:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.149-07:00'
 ---
 I have my DSL modem in hand! It will be a couple days until the system

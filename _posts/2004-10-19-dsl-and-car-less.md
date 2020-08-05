@@ -4,6 +4,7 @@ title: DSL and car-less
 date: '2004-10-19T18:34:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.372-07:00'
 ---
 We are online at home now! We have DSL (high speed Internet over the

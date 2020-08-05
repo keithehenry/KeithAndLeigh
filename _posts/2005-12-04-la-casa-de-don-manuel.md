@@ -4,6 +4,7 @@ title: La Casa de Don Manuel
 date: '2005-12-04T08:06:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.017-07:00'
 ---
 Thursday was the big day. We bought a house.

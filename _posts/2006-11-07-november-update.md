@@ -4,6 +4,7 @@ title: November update
 date: '2006-11-07T15:13:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.980-07:00'
 ---
 It's been a long time since I've updated the blog. Here's what's

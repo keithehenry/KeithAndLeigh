@@ -4,6 +4,7 @@ title: House Hunting
 date: '2005-02-20T16:45:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.443-07:00'
 ---
 Our days have recently been spent looking for housing. We are still

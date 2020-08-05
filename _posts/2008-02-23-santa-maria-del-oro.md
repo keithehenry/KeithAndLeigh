@@ -4,6 +4,7 @@ title: Santa María del Oro
 date: '2008-02-23T15:14:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.776-07:00'
 ---
 Late in January, we went for an overnight to La Laguna (aka Crater Lake)

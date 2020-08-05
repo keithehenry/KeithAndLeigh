@@ -4,6 +4,7 @@ title: Kitchen wrap-up
 date: '2010-03-15T10:21:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:10.844-07:00'
 ---
 It's time to conclude the kitchen renovation story so we can move on to

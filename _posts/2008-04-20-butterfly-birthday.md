@@ -4,6 +4,7 @@ title: Butterfly Birthday
 date: '2008-04-20T08:18:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2018-04-21T15:38:13.746-07:00'
 ---
 This year I had the best birthday celebration! We took a trip to see

@@ -4,6 +4,7 @@ title: The Henry / Frey affair
 date: '2006-08-22T14:01:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.363-07:00'
 ---
 I'd been so preoccupied with my projects around the house that I almost

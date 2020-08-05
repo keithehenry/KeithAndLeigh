@@ -4,6 +4,7 @@ title: Yosemite, Sequoia, and Kings Canyon
 date: '2011-06-12T10:23:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.128-07:00'
 ---
 In late May and early June we enjoyed ten days exploring the Yosemite,

@@ -4,6 +4,7 @@ title: Kitchen update
 date: '2009-08-02T05:00:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.672-07:00'
 ---
 Now's a good time for a comprehensive update on our kitchen rework.
@@ -28,7 +29,7 @@ scheme.
 %}),
 [La Casa de Don Manuel]({{site.baseurl}}{% post_url
 2005-12-04-la-casa-de-don-manuel
-%}), 
+%}),
 and for scrapbook photos, visit
 [Casa de Keith y Leigh](http://casa.keithandleigh.com).
 \]

@@ -4,6 +4,7 @@ title: One-hundred percent beach
 date: '2007-12-04T12:15:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.796-07:00'
 ---
 We finally took an opportunity to get away to the beach over the

@@ -4,6 +4,7 @@ title: Vista del Lago
 date: '2005-11-13T09:25:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.069-07:00'
 ---
 Welcome to our neighborhood of *Vista del Lago*. This is the turn-in

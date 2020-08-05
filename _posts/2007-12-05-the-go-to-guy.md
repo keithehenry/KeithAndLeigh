@@ -4,6 +4,7 @@ title: The go-to guy
 date: '2007-12-05T11:45:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.006-07:00'
 ---
 A classic photo of our no job too big, too small, or too dirty, go-to

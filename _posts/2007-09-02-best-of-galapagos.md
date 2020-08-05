@@ -4,6 +4,7 @@ title: Best of Galapagos
 date: '2007-09-02T14:00:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:13.232-07:00'
 ---
 It's been cloudy and rainy in sunny Mexico the last couple of weeks -

@@ -4,6 +4,7 @@ title: Zoológico y Safari Guadalajara
 date: '2008-11-29T11:04:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:12.502-07:00'
 ---
 Well, we rather outdid ourselves with

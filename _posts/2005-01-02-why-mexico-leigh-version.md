@@ -4,6 +4,7 @@ title: Why Mexico? Leigh's version
 date: '2005-01-02T07:57:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.877-07:00'
 ---
 Our Christmas was indeed different than any other thus far! We are in

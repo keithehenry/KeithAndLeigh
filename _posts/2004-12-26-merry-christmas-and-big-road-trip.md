@@ -4,6 +4,7 @@ title: Merry Christmas and the Big Road Trip
 date: '2004-12-26T15:11:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.529-07:00'
 ---
 Things are going well! I'm not too in tune with the magic and romance of

@@ -4,6 +4,7 @@ title: Rattlesnakes & Bears - Oh My!
 date: '2006-08-23T11:43:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:11.519-07:00'
 ---
 On our recent trip to the US we visited Shenandoah National Park.

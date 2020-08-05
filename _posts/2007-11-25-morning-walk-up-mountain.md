@@ -4,6 +4,7 @@ title: Morning's walk up the mountain
 date: '2007-11-25T14:33:00.000-07:00'
 author: Keith
 tags:
+categories: mexblog
 modified_time: '2020-07-24T10:35:14.342-07:00'
 ---
 Most mornings, whenever possible, Cobre and I take a walk up the

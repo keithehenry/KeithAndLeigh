@@ -20,4 +20,4 @@ more recent entries on the [Home](.) page.
 My intention is to add an index to some of our favorite online
 photo albums next.
 
-See the source code at: {% include icon-github.html username="keithehenry/mexicoblog" %}.
+See the source code at: {% include icon-github.html username="keithehenry/keithandleigh" %}.

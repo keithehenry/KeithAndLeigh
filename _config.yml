@@ -19,7 +19,7 @@ email: keithehenry@gmail.com
 description: "Blog"
 #url: http://www.keithehenry.com # the base hostname & protocol for your site
 #baseurl: "/MexicoBlog" # the optional subpath of your site
-url: http://blog.keithandleigh.com
+url: http://www.keithandleigh.com
 author:
   name: Keith E Henry
   twitter:
@@ -84,8 +84,7 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
-      
+      read_time: false
 
 # In original 'minima' but not supported yet:
 # show_excerpts: true # set to false to remove excerpts on the homepage

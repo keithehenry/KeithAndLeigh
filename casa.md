@@ -1,5 +1,5 @@
 ---
-title: Casa de
+title: Casa de (Blog)
 layout: category
 permalink: /categories/casa/
 taxonomy: casa
@@ -13,4 +13,4 @@ introduction: |
     our efforts to make the never-lived-in Mexican country house our home.
 ---
 
-<h2>Posts</h2>
+## Posts

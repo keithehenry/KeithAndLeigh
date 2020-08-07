@@ -1,5 +1,5 @@
 ---
-title: Mexico Blog
+title: Mexico (Blog)
 layout: category
 permalink: /categories/mexblog/
 taxonomy: mexblog
@@ -16,4 +16,4 @@ introduction: |
     > Blog entries prior to May 2005 are reworked snippets of old emails that have never been fully adapted to the blog format. There is way too much duplication, too many personal references, and too much trivia to be worth reading. But it's not worth the effort to fix either. :) My apologies.
 ---
 
-<h2>Posts</h2>
+## Posts

@@ -14,8 +14,8 @@ These blogs include
 [Casa de](./categories/casa).
 
 I've also started to integrate a few of our more recent adventures
-from other postings or email correspondence. These are simply the
-more recent entries on the [Home](.) page.
+from other postings or email correspondence. These are simply accessed
+via the [Home](.) page.
 
 My intention is to add an index to some of our favorite online
 photo albums next.

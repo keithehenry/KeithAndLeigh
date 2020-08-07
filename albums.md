@@ -13,6 +13,7 @@ https://lh3.googleusercontent.com/jjKOtd4xNIGzeTyc4e4oAIDN9Z3LJFi3M5iVXGOCfNlDUq
 )](
 https://photos.app.goo.gl/sXsizRbM6mCF8Jtb6
 )  
+
 Rugged rock formations and stark desert landscapes.  
 
 #### 2018 - Yucatan - Best of (114)
@@ -21,4 +22,5 @@ https://lh3.googleusercontent.com/JzdFVpEATXOGyBlzZe7igd0eewy-ufxbNDbtBmLk31Nm6r
 )](
 https://photos.app.goo.gl/LHEDt7jtjTGT5DS87
 )  
+
 Major archaeological sites, *cenotes*, caverns, and ocean resorts.

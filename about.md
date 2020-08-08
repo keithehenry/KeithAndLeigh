@@ -20,6 +20,6 @@ from other postings or email correspondence. These are simply accessed
 via the [Home](.) page.
 
 An index to some of our favorite online [Photo Albums](./albums)
-has now been added too. Enjoy!
+has now been added as well. Enjoy!
 
 See the source code at: {% include icon-github.html username="keithehenry/keithandleigh" %}.

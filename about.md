@@ -2,7 +2,7 @@
 title: "About"
 layout: about
 ---
-The new home for everything Keith And Leigh :).
+The new home for everything *KeithAndLeigh.com* :).
 
 It started as an experiment in free hosting
 with Github Pages and Jekyll. It's turned into our new
@@ -15,7 +15,7 @@ These blogs include
 [Mexico Blog](./categories/mexblog), and
 [Casa de](./categories/casa).
 
-I've also started to integrate a few of our more recent adventures
+I've also integrated a few of our more recent adventures
 from other postings or email correspondence. These are simply accessed
 via the [Home](.) page.
 

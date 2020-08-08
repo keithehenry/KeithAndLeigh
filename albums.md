@@ -23,4 +23,4 @@ https://lh3.googleusercontent.com/JzdFVpEATXOGyBlzZe7igd0eewy-ufxbNDbtBmLk31Nm6r
 https://photos.app.goo.gl/LHEDt7jtjTGT5DS87
 )  
 
-Major archaeological sites, *cenotes*, caverns, and ocean resorts.
+Major archaeological sites, *cenotes*, caverns, and beach resorts.

@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2016-03-11 Verde Valley School Road Lookout
+date: '2016-03-11T12:46:00.000-07:00'
+author: Keith
+tags: 
+categories: hikes
+modified_time: '2016-04-10T15:49:17.819-07:00'
+---
+
+Our friends Erin and Kevin visited Sedona in early March.
+
+For a short walk before dinner, we took them out Verde Valley School Road to our
+favorite lookout. It's a ten minute walk to a great view.
+
+[![](
+https://lh3.googleusercontent.com/6oVx8Q364p1BmdIx8y9mMLOATuBDK2euzJn4COZq3qBaimR-Pmx5UgjVVP74hLi8uLLP_49efsVhwjVEOsD4cRk_WWdRcv677rvqedRhLUGOZgipCfz2RVnWwUswWgwdKRHKj1ouGgXOFDQcEk0KLuHVM6rhetpNqOC4V2LHHVmH2ykDT38Tr0H-QaYPKC3EeScGa78Luxo0HWaDA1t3Tqiy4X1lhHhuX3ktBxcluZ2JKzQKjtpSPHUTxh4Qd1MdT_DA4RdDbptm-23KtJp4byq4I9jw-QtPl14n3pFSa3YTsqUQ1aNWuttEkJ96RJvZbChsF0VwWahY-HWmJHzQUdS1Qi_t__t7qJk-Fer2Sg-qesOT9JCGaUazg11jf-liLyoV2227TT-GZqu8UC6qA9vzvR-tv4y_e1ineHXKk-Sa8o5zzBcAe2oZ-foPhhs41HeKc1n6z2AD596Yc2UfrkeRZqcctI_Vd9vghALXUqK4MhRemwWxGAv5NuIHFX7XUF5eEDp7TgqPhzIDvv1CRL7BboDkCP_lqSN9jjUKT73eYuxNItE8QRSBi_8FOk_aBEMudQC3DiZ1yyt8weambKz0GMwxv9wycApFBvFH6uc9kz2W-9VH3XMo--I4i0YFZm62vUWnInO42ZFIjdl-FF48vmtpTPBhytYd3wmbwF8gCxk511Fddqcxu_U4QEo=w800-no-tmp.jpg
+)](
+https://lh3.googleusercontent.com/6oVx8Q364p1BmdIx8y9mMLOATuBDK2euzJn4COZq3qBaimR-Pmx5UgjVVP74hLi8uLLP_49efsVhwjVEOsD4cRk_WWdRcv677rvqedRhLUGOZgipCfz2RVnWwUswWgwdKRHKj1ouGgXOFDQcEk0KLuHVM6rhetpNqOC4V2LHHVmH2ykDT38Tr0H-QaYPKC3EeScGa78Luxo0HWaDA1t3Tqiy4X1lhHhuX3ktBxcluZ2JKzQKjtpSPHUTxh4Qd1MdT_DA4RdDbptm-23KtJp4byq4I9jw-QtPl14n3pFSa3YTsqUQ1aNWuttEkJ96RJvZbChsF0VwWahY-HWmJHzQUdS1Qi_t__t7qJk-Fer2Sg-qesOT9JCGaUazg11jf-liLyoV2227TT-GZqu8UC6qA9vzvR-tv4y_e1ineHXKk-Sa8o5zzBcAe2oZ-foPhhs41HeKc1n6z2AD596Yc2UfrkeRZqcctI_Vd9vghALXUqK4MhRemwWxGAv5NuIHFX7XUF5eEDp7TgqPhzIDvv1CRL7BboDkCP_lqSN9jjUKT73eYuxNItE8QRSBi_8FOk_aBEMudQC3DiZ1yyt8weambKz0GMwxv9wycApFBvFH6uc9kz2W-9VH3XMo--I4i0YFZm62vUWnInO42ZFIjdl-FF48vmtpTPBhytYd3wmbwF8gCxk511Fddqcxu_U4QEo=w0-no-tmp.jpg
+)
+
+IMG_20160311_173030300_HDR.jpg
+
+[GPX](https://drive.google.com/file/d/0B05YxhE9Av-PMW1XY2dMWDYtTHM/view?usp=sharing)  
+  

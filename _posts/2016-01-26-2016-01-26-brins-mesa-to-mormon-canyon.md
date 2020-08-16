@@ -23,13 +23,11 @@ until the trail ends at the edge of the deep canyon below. The views
 here are terrific. \[The blog's panorama is from this vantage point.\]
 
 *Keith, on top of the world:*
-[![](
+[![IMG_20160126_121831382_HDR.jpg](
 https://lh3.googleusercontent.com/pw/ACtC-3eBW34rhAapJ-AlSUQzYMu2Nam5imvRBmee363kNpfCodI_8Rm3wxeJuShp11EZItgEycJiowEeN1wN6ehQDUSoHa2xzJfu_wnCs9iP0PNABmwuGbp97GSP9O1KCc6CJBTT8JH1X8Dqe10r9FEVldQfTw=w800-no-tmp.jpg
 )](
 https://lh3.googleusercontent.com/pw/ACtC-3eBW34rhAapJ-AlSUQzYMu2Nam5imvRBmee363kNpfCodI_8Rm3wxeJuShp11EZItgEycJiowEeN1wN6ehQDUSoHa2xzJfu_wnCs9iP0PNABmwuGbp97GSP9O1KCc6CJBTT8JH1X8Dqe10r9FEVldQfTw=w0-no-tmp.jpg
 )
-
-IMG_20160126_121831382_HDR.jpg
 
 [Video (360° Panorama)](https://youtu.be/FxEIt18IZAk)  
 [Photos](https://goo.gl/photos/iPEn5bq3CQXjUTci9)  

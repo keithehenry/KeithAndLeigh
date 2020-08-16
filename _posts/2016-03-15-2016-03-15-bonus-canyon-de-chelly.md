@@ -22,13 +22,11 @@ into the canyon to the ruin and back for a great up-close and personal
 experience.
 
 *Canyon de Chelly Spider Rock:*
-[![](
+[![IMG_20160315_154405420.jpg](
 https://lh3.googleusercontent.com/pw/ACtC-3dgPtW2-WTlOxj5jQmwpVWWuttNke-I-xjUc9DQ18hEkGqRaI9fnKUFLR40tcxCO6buFApblN0UBu2SvK_qOjspVsssNAE74AV_FhCwgKTJL6yxMyFB8US2KfQEzKVOLJgL_oV0KshVo-IApaeceZTW8g=w800-no-tmp.jpg
 )](
 https://lh3.googleusercontent.com/pw/ACtC-3dgPtW2-WTlOxj5jQmwpVWWuttNke-I-xjUc9DQ18hEkGqRaI9fnKUFLR40tcxCO6buFApblN0UBu2SvK_qOjspVsssNAE74AV_FhCwgKTJL6yxMyFB8US2KfQEzKVOLJgL_oV0KshVo-IApaeceZTW8g=w0-no-tmp.jpg
 )
-
-IMG_20160315_154405420.jpg
 
 [Photos](https://goo.gl/photos/eGZAVUgq32VtQn8q7)  
 [GPX](https://drive.google.com/file/d/0B05YxhE9Av-PX2hkOGxCRVllUjA/view?usp=sharing)  

@@ -5,7 +5,8 @@ permalink: /categories/hikes/
 taxonomy: hikes
 alt_title: "Our Sedona Hikes"
 sub_title: "Keith and Leigh's Hiking Journal"
-#image: https://lh3.googleusercontent.com/WxxMxvxjYy92cGCMe1PYOZpDjWm96mpc_MHMEbsHNdl-a7uEy-IzekV1LEhK3bCu_UpkzA5ZKD2WX5jACLY=w800-no-tmp.jpg
+#Vertical I dermander-wide-angle.jpg
+image: "https://lh3.googleusercontent.com/pw/ACtC-3cvo4RbBIi2qBKJfRgLvpOCIGddVh6uAkiqrRRIxDueq4CJ2SXyLoM5ObgulHZ54qWkrvAfeT_xZr_-7r3tpsIVUwoI_eI-919VJNP5E4z8rqXKIOlY2foD6fiBkh1JBS4_oBiuuB6xDPYqSC3m4YgcIg=w800-no-tmp.jpg"
 introduction: |
     This is a revamped version of an old blog I maintained for a few years chronicling
     our hikes around Sedona. Short videos, photo albums, and GPX tracks are often included.

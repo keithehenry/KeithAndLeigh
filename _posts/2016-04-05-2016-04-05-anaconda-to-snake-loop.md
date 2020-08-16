@@ -14,15 +14,10 @@ Leigh had done with her friend Maya several months before.
 We ended up improvising taking Anaconda in the reverse direction then returning via
 Snake. It was a beautiful day - plenty dry with lots of pollen though.
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pxGLdp05FJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-[![](
-https://lh3.googleusercontent.com/pw/ACtC-3c4b1BUCzi1NnI_ckbezQDBb6MY3o6O1nmiZtOIj9bj8aQ6xKVK0wbY9rv2yF_YE031QdvIc0pMLg1DVChYyz8wf41dnwnymLpOoEMqBxQu3FjP4VN_YpCf0CAeTxsQx8pQ6QEp1Pz6G3ZY3FlP-qrSGA=w800-no-tmp.jpg
-)](
-https://lh3.googleusercontent.com/pw/ACtC-3c4b1BUCzi1NnI_ckbezQDBb6MY3o6O1nmiZtOIj9bj8aQ6xKVK0wbY9rv2yF_YE031QdvIc0pMLg1DVChYyz8wf41dnwnymLpOoEMqBxQu3FjP4VN_YpCf0CAeTxsQx8pQ6QEp1Pz6G3ZY3FlP-qrSGA=w0-no-tmp.jpg
-)
-
-OMIMG_20160405_110928.jpg
-  
+[Video](https://youtu.be/pxGLdp05FJQ) (above)    
 [Photos](https://goo.gl/photos/q5FFzGtjuM2ZxP9s9)  
 [GPX](https://drive.google.com/file/d/0B05YxhE9Av-Pa3lkanhmaFEyQjA/view?usp=sharing)  
-  

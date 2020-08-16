@@ -17,13 +17,11 @@ great picnic spot. We think visitors might enjoy this in the warmer
 months.  
   
 *Leigh's heart shaped rock:*
-[![](
+[![OMIMG_20160325_100717.jpg](
 https://lh3.googleusercontent.com/pw/ACtC-3f6Yk2OBh3j7CtoyTDM7BGqtFzJsoI8AzTpYSPPzb4K7jusqQ-oME94-bCvQ8dUgJwCCl4kTn0l3_IB092JUjd3teoRNZq6Q_fSngEmAr-PIrZLPHm6Tz4Ct8mYbAjRIZVk0omIRM5kE3ueF8NEDwtFQA=w800-no-tmp.jpg
 )](
 https://lh3.googleusercontent.com/pw/ACtC-3f6Yk2OBh3j7CtoyTDM7BGqtFzJsoI8AzTpYSPPzb4K7jusqQ-oME94-bCvQ8dUgJwCCl4kTn0l3_IB092JUjd3teoRNZq6Q_fSngEmAr-PIrZLPHm6Tz4Ct8mYbAjRIZVk0omIRM5kE3ueF8NEDwtFQA=w0-no-tmp.jpg
 )
-
-OMIMG_20160325_100717.jpg
 
 [Photos](https://goo.gl/photos/Sj7P1sJXBPbkPkG98)  
 [GPX](https://drive.google.com/file/d/0B05YxhE9Av-PaVRqYUxsU0VmQ3M/view?usp=sharing)  

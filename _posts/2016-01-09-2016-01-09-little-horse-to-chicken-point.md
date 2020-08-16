@@ -14,15 +14,12 @@ It was long enough though for being slightly out of practice. We were tired
 (and hungry) by the end. It was only about 40F this morning but mostly sunny and
 so so great to get out after a week of wet weather. 
   
-*Love the combination of the red rocks, green pines, and white snow.*  
-[![](
+*Love the combination of the red rocks, green pines, and white snow:*  
+[![OMIMG_20160109_114922.jpg](
 https://lh3.googleusercontent.com/pw/ACtC-3egejiHVPyRHWKCqmN2mUdH3aTO2tn5iQifl-YhQbjFTlkw2-Squob3Jz5q6tC3jL-0l-czPMu-T_sMMscvnC9iBvBjJhHcWmoHu1Tv7dSEqntFf4xCrqHotUZtwwX5Hk3aHcsjWnTUKBmYTucfUwNUOQ=w800-no-tmp.jpg
 )](
 https://lh3.googleusercontent.com/pw/ACtC-3egejiHVPyRHWKCqmN2mUdH3aTO2tn5iQifl-YhQbjFTlkw2-Squob3Jz5q6tC3jL-0l-czPMu-T_sMMscvnC9iBvBjJhHcWmoHu1Tv7dSEqntFf4xCrqHotUZtwwX5Hk3aHcsjWnTUKBmYTucfUwNUOQ=w0-no-tmp.jpg
 )
-
-OMIMG_20160109_114922.jpg
-
 
 (It appears that the GPS mileage stats are routinely about 20% too low.)  
 [Photos](https://goo.gl/photos/XHGMrvyxmp8teM26A)  

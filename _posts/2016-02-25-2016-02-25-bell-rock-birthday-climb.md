@@ -15,13 +15,11 @@ We'll climb up a little higher some day when we're feeling more
 ambitious, now that we are more familiar with the trail and markings.  
 
 *Happy Birthday! Leigh at Bell Rock:*
-[![](
+[![OMIMG_20160225_101035.jpg](
 https://lh3.googleusercontent.com/pw/ACtC-3fOvQkRFtjfL6yF_PuYN3QgXQ3RS63NXZGmQAOcPh6j-7obu0zi4RzW-MU6qKWiWVojytmH9wgU3iL0nbhAHd7HCTYmZC-5lTNcEHKw4Js2kw9eE23IzmUa27D1uzObTaud-9rMnEuLdrtM0kFdWk40pA=w800-no-tmp.jpg
 )](
 https://lh3.googleusercontent.com/pw/ACtC-3fOvQkRFtjfL6yF_PuYN3QgXQ3RS63NXZGmQAOcPh6j-7obu0zi4RzW-MU6qKWiWVojytmH9wgU3iL0nbhAHd7HCTYmZC-5lTNcEHKw4Js2kw9eE23IzmUa27D1uzObTaud-9rMnEuLdrtM0kFdWk40pA=w0-no-tmp.jpg
 )
-
-OMIMG_20160225_101035.jpg
 
 [Photos](https://goo.gl/photos/1gpzBvHE4EHVmZZQ6)  
 [GPX](https://drive.google.com/file/d/0B05YxhE9Av-PRWt5ajZhdGdYSEE/view?usp=sharing)

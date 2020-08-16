@@ -19,13 +19,11 @@ See the video for August 30th.
   
 We did have some nice Fall foliage that day...  
 
-[![](
+[![IMG_20161115_122032734.jpg](
 https://lh3.googleusercontent.com/kqDfiY0RYkFEfTx9fL6Jpvu_8Fz10FGen26LE1_dOJ6teJ-Q1A90CqyOxlWYvMA_50YgfYxwnu2TEfFdPSY=w800-no-tmp.jpg
 )](
 https://lh3.googleusercontent.com/kqDfiY0RYkFEfTx9fL6Jpvu_8Fz10FGen26LE1_dOJ6teJ-Q1A90CqyOxlWYvMA_50YgfYxwnu2TEfFdPSY=w0-no-tmp.jpg
 )
-
-IMG_20161115_122032734.jpg
   
 Video  
 [Photos](https://goo.gl/photos/zoa3eDgBjZnMG1ZY9)  

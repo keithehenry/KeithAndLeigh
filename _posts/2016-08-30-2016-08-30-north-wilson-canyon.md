@@ -35,7 +35,11 @@ For as far as we got, this panorama is not bad though:
 We ended up having a splendid time afterwards though, enjoying our lunch
 and Oak Creek access at the Bootlegger Picnic Area.  
 
-[![](https://1.bp.blogspot.com/-5DfDuOEik8Q/V8obkkEyWbI/AAAAAAABK4g/JWsT26AuNOcxdV8Z8pSOz2k0BcdAHOsvgCPcB/s800/IMG_20160830_122526370-ANIMATION.gif)](https://1.bp.blogspot.com/-5DfDuOEik8Q/V8obkkEyWbI/AAAAAAABK4g/JWsT26AuNOcxdV8Z8pSOz2k0BcdAHOsvgCPcB/s1600/IMG_20160830_122526370-ANIMATION.gif)
+[![IMG_20160830_122526370-ANIMATION.gif](
+https://lh3.googleusercontent.com/pw/ACtC-3febkPbHtjutk5tqh3aNdUzNBmYm2ObqtliqH5ghm5t1bqimrblAycMwX373Z1NsI7cxybEPf6XEahAvVs_kY0Zie778BcZ6S_c97W4laz2Hg2qEvDCuJ45T6sjdBOD8mahlEDoOiyY4w7A4Am4Vb61EA=w800-no-tmp.jpg
+)](
+https://lh3.googleusercontent.com/pw/ACtC-3febkPbHtjutk5tqh3aNdUzNBmYm2ObqtliqH5ghm5t1bqimrblAycMwX373Z1NsI7cxybEPf6XEahAvVs_kY0Zie778BcZ6S_c97W4laz2Hg2qEvDCuJ45T6sjdBOD8mahlEDoOiyY4w7A4Am4Vb61EA=w0-no-tmp.jpg
+)
   
 Video  
 [Photos](https://goo.gl/photos/hXAd6sKpkAL6Cgym6)  

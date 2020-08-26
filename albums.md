@@ -11,7 +11,7 @@ introduction: |
   {% assign ordered_albums = site.albums | sort:"title" %}
   {% for album in ordered_albums reversed %}
     <div class="album">
-      <h2>{{ album.title }}</h2>
+      <h3>{{ album.title }}</h3>
       {{ album.content }}
     </div>
   {% endfor %}

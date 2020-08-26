@@ -5,7 +5,7 @@ author: Keith
 tags:
 categories: travel
 ---
-Leigh and I celebrated our 21st wedding anniversary Wednesday on the [Verde Canyon Railroad](https://verdecanyonrr.com/).
+Leigh and I had a fun day Wednesday on the [Verde Canyon Railroad](https://verdecanyonrr.com/).
 
 I've spent several (too many) hours this morning futzing around editing this video. But it's perfect now :). So please watch it and enjoy. We had a pleasant time and the weather cooperated nicely.
 

@@ -3,7 +3,7 @@ layout: post
 ---
 We finally got out for a real hike in the White Mountains of New Hampshire. 
 
-Here's we are at the trailhead for Arethusa Falls: 
+Here's Leigh at the trailhead for Arethusa Falls: 
 ![Leigh at Arethusa Falls](https://lh3.googleusercontent.com/A76boqjVQTyYh315ylQop8QrPOLfMB7xTP8N02pSpRDlIOmi9HEp0ss0L7Yir2QTbQHZ41Dzj_PneECc2bxbcMGJ8CFwGUPuRz0mSeK-BQjKzpzMPl2verPHAGpiFixsoAcAz5JQJgGylZBcfMMD5rL3Iw3fqQePqAKRg5cIwG3NgYtAzszc5wihWgK1gAd1oTlBdtvu103HYFNwLkyESPqL-S6VGgK7taWcBW4xJYz6TZ96jqomwfdL6q3tOQeMdGZaQZaLJKsIxpC4nCt6f8hVSqSgyqzJgk8AcKQ9uzC84EI7vXPUMB6Pu24Txn5C-IVY29LMaEFCx0faAEi7lOTJS9slErZxJBKMOE8oICOFh85VMQf5Ti1lTq3PsAFW0HA3QN3bFrybdyWsE-Jp_5mkUSiAenONsgtH_da2IwjNS7PojE2fq7mJ5qitlVXS7LQFKDQOM52h8ChbOsV1dJg5iTRuDK6GMAydACQf46tDXgJeIL9kOyBqN2y4FZkoQc9TFUsPvLAC0elgt2WIbwGg5qoIaRImyyRk3T7-wtEFC44EcUeQVJwv-NBp2dxuGdx45gdlkH2hHCrDu6ernfbwqMfmgjSIOTsFhNO4vcj5_tJjrvNq1O7ELQCWmtJ1FfeuOPUZoMXtDYdFDhfAD047X-is823H96uOv5BQ90asAWKnjyFyR3LJVqaY7Dff93SXEPUb9tWb4eA-RhzVtkaK=w800-no-tmp.jpg)
 
 The trail was shaded but rocky, with a nice mix of deciduous and evergreens.

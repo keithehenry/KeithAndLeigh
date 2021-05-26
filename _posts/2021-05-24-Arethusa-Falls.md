@@ -17,3 +17,7 @@ And here's lovely Arethusa Falls, considered the tallest waterfall in NH, at app
 
 This was a relatively difficult hike for us after many days of inactivity. It was only 2.75 miles but approximately 1000 ft of elevation gain. We took our time and enjoyed a lunch at the falls, spending almost 3.5 hours total.
 
+And wow! Here's the video. Enjoy!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pA77jqBRPgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+

@@ -19,5 +19,5 @@ This was a relatively difficult hike for us after many days of inactivity. It wa
 
 And wow! Here's the video. Enjoy!
 
-<iframe width="740" height="416" src="https://www.youtube-nocookie.com/embed/pA77jqBRPgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pA77jqBRPgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

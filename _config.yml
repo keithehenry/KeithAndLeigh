@@ -21,7 +21,7 @@ description: "Blog"
 #baseurl: "/MexicoBlog" # the optional subpath of your site
 url: http://www.keithandleigh.com
 author:
-  name: Keith E Henry
+  name: Keith
   picture: /assets/images/IMG_0414-300x300.jpg
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)

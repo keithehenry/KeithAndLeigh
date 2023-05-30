@@ -93,6 +93,14 @@ defaults:
     values:
       layout: post
       read_time: false
+  # _posts
+  - scope:
+      path: "_drafts"
+      type: posts
+    values:
+      layout: post
+      read_time: false
+      category: drafts
 
 # In original 'minima' but not supported yet:
 # show_excerpts: true # set to false to remove excerpts on the homepage

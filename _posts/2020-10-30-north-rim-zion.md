@@ -43,9 +43,9 @@ https://lh3.googleusercontent.com/pw/ACtC-3fngBY8nX455ckEyq_UUo8AJl4n4lStZO_P3kn
 
  The aspens along the way were pretty great too.  
 [![IMG_20201004_122914732_HDR.jpg](
-https://lh3.googleusercontent.com/pw/ACtC-3fmT9HbnlUeumiDEwc21MrEcuJBBkCUFvIzEIpnx4N2yFg3RwOUgpfYaGC2fZFrUIrit7rUZVhCceMb7sOmpFgUTDgLrrRkybkKlSl573tJjePGcjUSMQzDYlbEm7JoNlEyEaCbQX1KuZhnNWXPpAXKPA=w1000-no-tmp.jpg
+https://lh3.googleusercontent.com/pw/ACtC-3fmT9HbnlUeumiDEwc21MrEcuJBBkCUFvIzEIpnx4N2yFg3RwOUgpfYaGC2fZFrUIrit7rUZVhCceMb7sOmpFgUTDgLrrRkybkKlSl573tJjePGcjUSMQzDYlbEm7JoNlEyEaCbQX1KuZhnNWXPpAXKPA=w800-no-tmp.jpg
 )](
-https://lh3.googleusercontent.com/pw/ACtC-3fmT9HbnlUeumiDEwc21MrEcuJBBkCUFvIzEIpnx4N2yFg3RwOUgpfYaGC2fZFrUIrit7rUZVhCceMb7sOmpFgUTDgLrrRkybkKlSl573tJjePGcjUSMQzDYlbEm7JoNlEyEaCbQX1KuZhnNWXPpAXKPA=w1000-no-tmp.jpg
+https://lh3.googleusercontent.com/pw/ACtC-3fmT9HbnlUeumiDEwc21MrEcuJBBkCUFvIzEIpnx4N2yFg3RwOUgpfYaGC2fZFrUIrit7rUZVhCceMb7sOmpFgUTDgLrrRkybkKlSl573tJjePGcjUSMQzDYlbEm7JoNlEyEaCbQX1KuZhnNWXPpAXKPA=w0-no-tmp.jpg
 )
 
 More sunset and sunrise photos of course. :wink:
@@ -66,9 +66,9 @@ https://lh3.googleusercontent.com/pw/ACtC-3ebJij7SE6J-aJppor-U69igBV36j0ipPqP_mX
 
 We recovered that afternoon back at the cabin. Later, Leigh snatched one of her best sunset photos along Bright Angel Trail that evening.  
 [![IMG_20201005_180955074.jpg](
-https://lh3.googleusercontent.com/pw/ACtC-3f6vkT5xRuTkULRT_Lq9rvPnbR61Z6FuKpspxn3sH0KjzA3M5O-d8eH0SukxIum54riOF4CB8tGTt4e_ClzkFyvvvxE6ZPn6X3ts5wXLbzqXgPpdm5YcxCipiU5JFyACSQ0nJw2tzHZa4a1TgbMx-wUcQ=w1000-no-tmp.jpg
+https://lh3.googleusercontent.com/pw/AJFCJaXYVdE3-Ei2GcSA66rcRxUBcjpuJ5ijUcYuGyoSfQyZdNTiTnSRL_tFy7yKDAw2pG40DiCaPmGl2aWapcK1p3vjUK1PRDZVgD2fiKMTxyxxjvK4PojHKPbeTgnln4mli6Xz_3NYP1gkluwv8ttoq9FAMA=w800-no-tmp.jpg
 )](
-https://lh3.googleusercontent.com/pw/ACtC-3f6vkT5xRuTkULRT_Lq9rvPnbR61Z6FuKpspxn3sH0KjzA3M5O-d8eH0SukxIum54riOF4CB8tGTt4e_ClzkFyvvvxE6ZPn6X3ts5wXLbzqXgPpdm5YcxCipiU5JFyACSQ0nJw2tzHZa4a1TgbMx-wUcQ=w1000-no-tmp.jpg
+https://lh3.googleusercontent.com/pw/AJFCJaXYVdE3-Ei2GcSA66rcRxUBcjpuJ5ijUcYuGyoSfQyZdNTiTnSRL_tFy7yKDAw2pG40DiCaPmGl2aWapcK1p3vjUK1PRDZVgD2fiKMTxyxxjvK4PojHKPbeTgnln4mli6Xz_3NYP1gkluwv8ttoq9FAMA=w0-no-tmp.jpg
 )
 
 On our last morning on the North Rim we headed out early to the Transcept Trail. This trail leaves directly from the lodge, connecting the campground. It was a great start to the day with great views, refreshing cool breezes, and colorful aspens interspersed among the pines.  
@@ -87,7 +87,7 @@ https://lh3.googleusercontent.com/pw/ACtC-3fI2HO8mqyWKEb9KFBf0Fzmej8i-oWxnhyDNWz
 We returned to our cabin in time to shower, pack, and check out. Then it was onward toward Zion National Park. We ate *inside* a restaurant for the first time in *forever* in Utah. How daring and what a treat! :wink:
 
 *Update 2023-05-29:*  
-This entry's been sitting in drafts for more than two years :slightly_frowning_face: -presumably because I never finished the Zion half. The North Rim half's pretty great though. *Published!* :wink:
+This entry's been sitting in drafts for more than two years :slightly_frowning_face: - presumably because I never finished the Zion half. The North Rim half's pretty great though. *Published!* :wink:
 <!---
 Great emoji cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->

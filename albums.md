@@ -1,10 +1,10 @@
 ---
-title: Albums
+title: Photos & Videos
 layout: page
 permalink: /albums/
-sub_title: "Some of our favorite photo albums (and video slideshows). Enjoy!"
+sub_title: "Some of our favorite photo albums and video slideshows. Enjoy!"
 introduction: |
-    *Click the image to see the album at Google Photos or slideshow at YouTube.*
+    *Click the image to see the album at Google Photos or video at YouTube.*
 ---
 
 <div class="entries-grid">

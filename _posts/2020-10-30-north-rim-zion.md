@@ -86,8 +86,11 @@ https://lh3.googleusercontent.com/pw/ACtC-3fI2HO8mqyWKEb9KFBf0Fzmej8i-oWxnhyDNWz
 
 We returned to our cabin in time to shower, pack, and check out. Then it was onward toward Zion National Park. We ate *inside* a restaurant for the first time in *forever* in Utah. How daring and what a treat! :wink:
 
-*Update 2023-05-29:*  
-This entry's been sitting in drafts for more than two years :slightly_frowning_face: - presumably because I never finished the Zion half. The North Rim half's pretty great though. *Published!* :wink:
 <!---
 Great emoji cheatsheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
+*Update 2023-05-29:*  
+This entry's been sitting in drafts for more than two years :slightly_frowning_face: - presumably because I never finished the Zion half. The North Rim half's pretty great though. *Published!* :wink:
+
+*Update 2023-06-02:*  
+A curated photo album, including the Zion NP half, is now linked on the [Photos](/albums) page.

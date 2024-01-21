@@ -49,7 +49,7 @@ We get up at 2AM, out by 4AM, and drive north through Mexican Hat, UT (with my G
 [![Keith at annular eclipse](https://lh3.googleusercontent.com/pw/ABLVV85XQyua2DSoOgxQGxaeuhOOORA1utKd_zlmg9d3yf709cWjwjbjq4F61eGoiO5Vm13EFoP34a5-ptSMvJo_aUpxa6-bVRI3ymVZYWKxQJtfSdt0Y7o7kpUSGNhK6pM79_TGgjOnVzXY1Zffe8dB0brdNA=w800-no-tmp.jpg)](https://lh3.googleusercontent.com/pw/ABLVV85XQyua2DSoOgxQGxaeuhOOORA1utKd_zlmg9d3yf709cWjwjbjq4F61eGoiO5Vm13EFoP34a5-ptSMvJo_aUpxa6-bVRI3ymVZYWKxQJtfSdt0Y7o7kpUSGNhK6pM79_TGgjOnVzXY1Zffe8dB0brdNA=w0-no-tmp.jpg)
 
 *October*  
-Several of Leigh’s high school friends visit Sedona. Leigh enjoys old friendships and enjoys showing them some of her favorite spots in Sedona.
+Several of Leigh’s high school friends visit Sedona. Leigh renews old friendships and enjoys showing them some of her favorite spots in Sedona.
 
 *December*  
 Leigh's long-time friend Sally and her daughter Trisha visit Sedona. Leigh not only prepares their charts and does astrology readings but doubles as tour guide for four fun days!

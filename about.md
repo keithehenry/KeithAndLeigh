@@ -2,7 +2,7 @@
 title: "About"
 layout: about
 ---
-The new home for everything *KeithAndLeigh.com* :).
+The new home for everything *KeithAndLeigh.com* :wink: .
 
 It started as an experiment in free hosting
 with Github Pages and Jekyll. It's turned into our new
@@ -16,9 +16,7 @@ These blogs include
 [Casa de](./categories/casa), and now
 [Hikes](./categories/hikes).
 
-I've also integrated a few of our more recent adventures
-from other postings or email correspondence. These are simply accessed
-via the [Home](.) page.
+More recent adventures are simply accessed via the [Home](.) page.
 
 An index to some of our favorite online [Photo Albums](./albums)
 has been started as well. Enjoy!
